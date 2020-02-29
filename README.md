@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othmaneM/Simulation_test_1/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/otmtest1/Appli_4_Simulation/master)
 
 Une suite d'exercices pour simuler quelques variables aléatoires
 
